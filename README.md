@@ -10,6 +10,10 @@ You can view Real-Time-Bus-Tracker here: https://tschanzvera.github.io/Real-Time
 
 You can view Tram stops in Bern here: https://tschanzvera.github.io/Real-Time-Bus-Tracker/index.html
 
+## How to run
+
+Load the url on your browser and click the run button. It should update every 5 seconds.
+
 ## Roadmap of future improvements 
 
 I would like to be able to track just one of the buses that I choose
