@@ -9,3 +9,7 @@ The other 2 files(maps.js and index.html) show a Map of Bern switzerland that I 
 
 If you have any questions please contact www.linkedin.com/in/vera-tschanz-500258a2
 
+## License
+
+MIT license
+
