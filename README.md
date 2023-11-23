@@ -8,14 +8,10 @@ The other 2 files(maps.js and index.html) show a Map of Bern switzerland from an
 
 
  
-You can view Real-Time-Bus-Tracker here: https://tschanzvera.github.io/Real-Time-Bus-Tracker/index2.html
-
-### Note 
-
-to view this project you will have to obtain your own Google Maps API key and insert it in the index3.html file
+You can view Real-Time-Bus-Tracker here: https://tschanzvera.github.io/Real-Time-Bus-Tracker/index2. 
 
 
-You can view Real-Time-Bus-Tracker here: https://tschanzvera.github.io/Real-Time-Bus-Tracker/index3.html
+You can view Real-Time-Bus-Tracker here: https://tschanzvera.github.io/Real-Time-Bus-Tracker/index3.html  NOTE: To view this project you will have to obtain your own Google Maps API key and insert it in the index3.html file.
 
 
 You can view Tram stops in Bern here: https://tschanzvera.github.io/Real-Time-Bus-Tracker/index.html
