@@ -2,16 +2,13 @@
 
 ## Description
 
-This project I had to do for my MITxPRO course. I used an API from  Mapbox and an API provided by Massachusetts BayTransportation Authority that showed various buses and tracks them as they move around Boston. (See maps2.js and index2.html) I also did this project using API from Google Maps. (See maps3.js and index3.html)
+This project I had to do for my MITxPRO course. I used an API from  Mapbox and an API provided by Massachusetts BayTransportation Authority that showed various buses and tracks them as they move around Boston. (See maps2.js and index2.html) I also did this project using API from Google Maps. (See maps3.js and index3.html) To view this project you will have to obtain your own API key from Google Maps and insert it in the index3.html file.
+
 
 The other 2 files(maps.js and index.html) show a Map of Bern switzerland from an API provided by Mapbox and tram stations from another API provided by the Swiss government.
 
 
- 
 You can view Real-Time-Bus-Tracker here: https://tschanzvera.github.io/Real-Time-Bus-Tracker/index2. 
-
-
-You can view Real-Time-Bus-Tracker here: https://tschanzvera.github.io/Real-Time-Bus-Tracker/index3.html  NOTE: To view this project you will have to obtain your own Google Maps API key and insert it in the index3.html file.
 
 
 You can view Tram stops in Bern here: https://tschanzvera.github.io/Real-Time-Bus-Tracker/index.html
