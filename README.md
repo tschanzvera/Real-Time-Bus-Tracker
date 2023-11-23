@@ -10,7 +10,7 @@ The other 2 files(maps.js and index.html) show a Map of Bern switzerland from an
  
 You can view Real-Time-Bus-Tracker here: https://tschanzvera.github.io/Real-Time-Bus-Tracker/index2.html
 
-## Note 
+### Note 
 
 to view this project you will have to obtain your own Google Maps API key and insert it in the index3.html file
 
